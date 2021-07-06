@@ -2,7 +2,12 @@
 Flappy bird is an extremely popular game which got popular mostly due to the fact that it was extremely tough to play and score in that game. My project tries to make that job simpler by first making the game in python using Pygame with an object-oriented approach and then playing it using AI neural evolution technology namely NEAT Algorithm. I tried to make it work with generations of evolved birds which learn from their mistakes and adapt with every gen to score more and move forward. A major part of the project revolves around making the game in python and then implementing it further for making an AI driven game 
 
 Some Glimpse of the Project: 
-![](visuals/Demonstration.png)
+
+![](visuals/Demonstration.PNG)
+
+Command Line OutPut: 
+
+![](visuals/Command Line.PNG)
 
 In order to run the game, you need to first download the entire folder in your directory. 
 Once you have downloaded it, click on flap.py on your normal python console. 
