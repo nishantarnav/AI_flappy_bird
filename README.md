@@ -7,7 +7,7 @@ Some Glimpse of the Project:
 
 Command Line OutPut: 
 
-![](visuals/Command Line.PNG)
+![](visuals/Command_Line.PNG)
 
 In order to run the game, you need to first download the entire folder in your directory. 
 Once you have downloaded it, click on flap.py on your normal python console. 
